@@ -3,7 +3,8 @@
 <img src="figs/hood_college.png" alt="World Bank logo" align="left" height=150  width=300>
 
 
-# 
+<br/><br/>
+<br/><br/>
 # 
 # Using quantum computing to solve the Maximal Covering Location Problem
 
