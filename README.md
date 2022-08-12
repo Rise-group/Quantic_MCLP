@@ -1,7 +1,10 @@
 <img src="figs/logo_rise_eafit.png" alt="RiSE-group logo" align="left" height=150 width=300>
-<img src="figs/corum.png" alt="World Bank logo" align="left" height=150  width=250>
-<img src="figs/hood_college.png" alt="World Bank logo" align="right" height=150  width=250>
+<img src="figs/corum.png" alt="World Bank logo" align="left" height=150  width=300>
+<img src="figs/hood_college.png" alt="World Bank logo" align="right" height=150  width=300>
 
+
+# 
+# 
 # Using quantum computing to solve the Maximal Covering Location Problem
 
 Alejandro Giraldo-Quintero <sup>1,2</sup>, Juan G. Lalinde-Pulido <sup>1</sup>, Juan C. Duque <sup>3</sup>, Daniel Sierra-Sosa <sup>4</sup>
