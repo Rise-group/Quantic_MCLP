@@ -1,0 +1,29 @@
+
+Gurobi 9.1.2 (linux64) logging started Tue Aug 24 22:21:37 2021
+
+Changed value of parameter LogFile to MCLP7_mul_c_4x4-21
+   Prev:   Default: 
+Changed value of parameter timeLimit to 1800.0
+   Prev: inf  Min: 0.0  Max: inf  Default: inf
+Gurobi Optimizer version 9.1.2 build v9.1.2rc0 (linux64)
+Thread count: 1 physical cores, 2 logical processors, using up to 2 threads
+Optimize a model with 17 rows, 19 columns and 29 nonzeros
+Model fingerprint: 0x889cf4a4
+Variable types: 0 continuous, 19 integer (19 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+00]
+Found heuristic solution: objective 24.0000000
+Presolve removed 17 rows and 19 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 2 available processors)
+
+Solution count 1: 24 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.400000000000e+01, best bound 2.400000000000e+01, gap 0.0000%
