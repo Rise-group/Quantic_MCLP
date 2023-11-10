@@ -37,6 +37,8 @@ __Corresponding author__ = jduquec1@eafit.edu.co
 ## Description:
 
 This repository contains all supplementary data that were used in the paper:
+### Paper Link
+[View Paper](https://link.springer.com/article/10.1007/s43762-022-00070-x)
 
 ### Abstract 
 
